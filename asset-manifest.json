@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/seguro-vehicular-tracking/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/seguro-vehicular-tracking/static/js/main.ea2e3dc7.chunk.js",
+    "main.js.map": "/seguro-vehicular-tracking/static/js/main.ea2e3dc7.chunk.js.map",
+    "runtime-main.js": "/seguro-vehicular-tracking/static/js/runtime-main.fc526454.js",
+    "runtime-main.js.map": "/seguro-vehicular-tracking/static/js/runtime-main.fc526454.js.map",
+    "static/js/2.70493a62.chunk.js": "/seguro-vehicular-tracking/static/js/2.70493a62.chunk.js",
+    "static/js/2.70493a62.chunk.js.map": "/seguro-vehicular-tracking/static/js/2.70493a62.chunk.js.map",
+    "static/js/3.d6344e61.chunk.js": "/seguro-vehicular-tracking/static/js/3.d6344e61.chunk.js",
+    "static/js/3.d6344e61.chunk.js.map": "/seguro-vehicular-tracking/static/js/3.d6344e61.chunk.js.map",
+    "index.html": "/seguro-vehicular-tracking/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/seguro-vehicular-tracking/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.70493a62.chunk.js.LICENSE.txt": "/seguro-vehicular-tracking/static/js/2.70493a62.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc526454.js",
+    "static/js/2.70493a62.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.ea2e3dc7.chunk.js"
+  ]
+}
