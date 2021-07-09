@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/seguro-vehicular-tracking/static/css/main.9b885303.chunk.css",
-    "main.js": "/seguro-vehicular-tracking/static/js/main.4c3aacde.chunk.js",
-    "main.js.map": "/seguro-vehicular-tracking/static/js/main.4c3aacde.chunk.js.map",
-    "runtime-main.js": "/seguro-vehicular-tracking/static/js/runtime-main.1d8c6ca4.js",
-    "runtime-main.js.map": "/seguro-vehicular-tracking/static/js/runtime-main.1d8c6ca4.js.map",
-    "static/js/2.bec2d1f3.chunk.js": "/seguro-vehicular-tracking/static/js/2.bec2d1f3.chunk.js",
-    "static/js/2.bec2d1f3.chunk.js.map": "/seguro-vehicular-tracking/static/js/2.bec2d1f3.chunk.js.map",
-    "static/js/3.de437c85.chunk.js": "/seguro-vehicular-tracking/static/js/3.de437c85.chunk.js",
-    "static/js/3.de437c85.chunk.js.map": "/seguro-vehicular-tracking/static/js/3.de437c85.chunk.js.map",
-    "index.html": "/seguro-vehicular-tracking/index.html",
-    "static/css/main.9b885303.chunk.css.map": "/seguro-vehicular-tracking/static/css/main.9b885303.chunk.css.map",
-    "static/js/2.bec2d1f3.chunk.js.LICENSE.txt": "/seguro-vehicular-tracking/static/js/2.bec2d1f3.chunk.js.LICENSE.txt",
-    "static/media/style.module.css": "/seguro-vehicular-tracking/static/media/woman-car-movil.793a8325.png",
-    "static/media/icon-car.734c5e44.svg": "/seguro-vehicular-tracking/static/media/icon-car.734c5e44.svg",
-    "static/media/logo.95e747eb.svg": "/seguro-vehicular-tracking/static/media/logo.95e747eb.svg"
+    "main.css": "/seguro-vehicular-tracking/index.html/static/css/main.c8762587.chunk.css",
+    "main.js": "/seguro-vehicular-tracking/index.html/static/js/main.86b6a1bf.chunk.js",
+    "main.js.map": "/seguro-vehicular-tracking/index.html/static/js/main.86b6a1bf.chunk.js.map",
+    "runtime-main.js": "/seguro-vehicular-tracking/index.html/static/js/runtime-main.4d307145.js",
+    "runtime-main.js.map": "/seguro-vehicular-tracking/index.html/static/js/runtime-main.4d307145.js.map",
+    "static/js/2.bec2d1f3.chunk.js": "/seguro-vehicular-tracking/index.html/static/js/2.bec2d1f3.chunk.js",
+    "static/js/2.bec2d1f3.chunk.js.map": "/seguro-vehicular-tracking/index.html/static/js/2.bec2d1f3.chunk.js.map",
+    "static/js/3.de437c85.chunk.js": "/seguro-vehicular-tracking/index.html/static/js/3.de437c85.chunk.js",
+    "static/js/3.de437c85.chunk.js.map": "/seguro-vehicular-tracking/index.html/static/js/3.de437c85.chunk.js.map",
+    "index.html": "/seguro-vehicular-tracking/index.html/index.html",
+    "static/css/main.c8762587.chunk.css.map": "/seguro-vehicular-tracking/index.html/static/css/main.c8762587.chunk.css.map",
+    "static/js/2.bec2d1f3.chunk.js.LICENSE.txt": "/seguro-vehicular-tracking/index.html/static/js/2.bec2d1f3.chunk.js.LICENSE.txt",
+    "static/media/style.module.css": "/seguro-vehicular-tracking/index.html/static/media/woman-car-movil.793a8325.png",
+    "static/media/icon-car.734c5e44.svg": "/seguro-vehicular-tracking/index.html/static/media/icon-car.734c5e44.svg",
+    "static/media/logo.95e747eb.svg": "/seguro-vehicular-tracking/index.html/static/media/logo.95e747eb.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1d8c6ca4.js",
+    "static/js/runtime-main.4d307145.js",
     "static/js/2.bec2d1f3.chunk.js",
-    "static/css/main.9b885303.chunk.css",
-    "static/js/main.4c3aacde.chunk.js"
+    "static/css/main.c8762587.chunk.css",
+    "static/js/main.86b6a1bf.chunk.js"
   ]
 }
