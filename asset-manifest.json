@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/seguro-vehicular-tracking/static/css/main.68288495.chunk.css",
-    "main.js": "/seguro-vehicular-tracking/static/js/main.31fa5395.chunk.js",
-    "main.js.map": "/seguro-vehicular-tracking/static/js/main.31fa5395.chunk.js.map",
+    "main.js": "/seguro-vehicular-tracking/static/js/main.c2f2c3a8.chunk.js",
+    "main.js.map": "/seguro-vehicular-tracking/static/js/main.c2f2c3a8.chunk.js.map",
     "runtime-main.js": "/seguro-vehicular-tracking/static/js/runtime-main.39a0616c.js",
     "runtime-main.js.map": "/seguro-vehicular-tracking/static/js/runtime-main.39a0616c.js.map",
     "static/js/2.08687330.chunk.js": "/seguro-vehicular-tracking/static/js/2.08687330.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.39a0616c.js",
     "static/js/2.08687330.chunk.js",
     "static/css/main.68288495.chunk.css",
-    "static/js/main.31fa5395.chunk.js"
+    "static/js/main.c2f2c3a8.chunk.js"
   ]
 }
