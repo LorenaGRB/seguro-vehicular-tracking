@@ -14,7 +14,7 @@
   
   
  ## Para levantar el proyecto:
- 1- Primero se clona el repositorio con `git clone https://github.com/LorenaGRB/seguro-vehicular-tracking.git`
+ 1- Primero se clona el repositorio 
  
  2- Entrar a la carpeta donde se clono el repositorio y colocar en el terminal `npm install` para que instalen todas las dependencias.
  
